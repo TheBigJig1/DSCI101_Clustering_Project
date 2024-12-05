@@ -1,0 +1,13 @@
+conda create -n myen1v -c conda-forge scikit-learn pandas numpy matplotlib seaborn
+conda activate myenv1
+conda install -c conda-forge jupyterlab
+
+Using myenv1 so myenv doesnt get overwritten in my class examples folder
+
+Normalize the dataset Teff and Lum
+
+Perform the KMeans on it (10 groups - White dwarfs, Giants, Supergiants, MainSequence-O, B, A, F, K, G, M)
+
+All entries PWD > .99 White dwarfs
+All entreis PStar = 1 Star
+SpType - O, B, A, F, K, G, M
