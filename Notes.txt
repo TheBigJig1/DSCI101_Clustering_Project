@@ -8,6 +8,7 @@ Normalize the Teff and Lum of the dataset
 
 Perform the KMeans on it (10 groups - White dwarfs, Giants, Supergiants, MainSequence-O, B, A, F, K, G, M)
 
-All entries PWD > .99 White dwarfs
-All entreis PStar = 1 Star
-SpType - O, B, A, F, K, G, M
+For error checking: 
+    All entries PWD > .99 White dwarfs
+    All entries PStar = 1 Star
+    SpType - O, B, A, F, K, G, M
