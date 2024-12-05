@@ -4,7 +4,7 @@ conda install -c conda-forge jupyterlab
 
 Using myenv1 so myenv doesnt get overwritten in my class examples folder
 
-Normalize the dataset Teff and Lum
+Normalize the Teff and Lum of the dataset
 
 Perform the KMeans on it (10 groups - White dwarfs, Giants, Supergiants, MainSequence-O, B, A, F, K, G, M)
 
